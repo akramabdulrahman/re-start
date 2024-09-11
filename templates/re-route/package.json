@@ -16,8 +16,8 @@
     "react-art": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-native-web_improved": "^0.9.9",
-    "react-router-dom": "^4.3.1",
-    "react-router-native": "^4.3.0"
+    "react-router-dom": "^6.0.0",
+    "react-router-native": "^6.0.0"
   },
   "peerDependencies": {
     "react-native-template-re-base": "0.2.1"
